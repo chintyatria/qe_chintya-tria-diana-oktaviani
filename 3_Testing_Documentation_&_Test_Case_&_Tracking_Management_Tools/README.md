@@ -109,3 +109,12 @@ yang berisi rencana untuk semua kegiatan pengujian yang harus dilakukan
 untuk memperoleh produk yang berkualitas
 
 # Tracking Management Tools
+
+Merupakan sebuah software yang digunakan dalam mengelola suatu proyek atau 
+development software agar berjalan secara efisien (jira, trello, dsb).
+
+Jira?
+1. Bug Tracking
+2. Issue Tracking
+3. Project Management
+
