@@ -96,7 +96,7 @@ munculnya bug dari pada menemukan atau mencari bug
 
 3. Don't be a checker, be a tester: tidak cukup jika hanya 
 melakukan testing tanpa ada improvement atau masukan
-4. Don'y try to break the system, instead help build the 
+4. Don't try to break the system, instead help build the 
 best possible system: jangan memaksa menemukan bug sampai 
 merusak sistem yang diuji
 5. The whole team is responsible for quality, not just the 
