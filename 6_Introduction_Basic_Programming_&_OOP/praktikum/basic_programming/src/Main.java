@@ -6,6 +6,7 @@ public class Main {
         int pilih = 0;
         char ulang, ulang2, ulang3, ulang4;
 
+        System.out.println();
         System.out.println("!!!SOAL BASIC PROGRAMMING!!!");
         System.out.println("1. Basic Programming Prioritas 1");
         System.out.println("2. Basic Programming Prioritas 2");
