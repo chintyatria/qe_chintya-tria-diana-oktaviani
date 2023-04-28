@@ -5,28 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d47eba40-8534-4c64-8744-d741f358b03c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/serenity.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/src/test/java/starter/CucumberTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/src/test/java/starter/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/src/test/java/starter/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/src/test/java/starter/stepdefinitions/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas1/src/test/resources/features/Login.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/CucumberTestSuite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/pages/CheckoutPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/pages/HomePage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/pages/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/pages/ProductPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/pages/TransactionPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/stepdefinitions/CheckoutSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/stepdefinitions/LoginSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/java/starter/stepdefinitions/ProductSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/resources/features/Checkout.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum2/Web Testing Using Serenity/Prioritas2/src/test/resources/features/Product.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/java/test/MainTestApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getallcartsschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getallproductsschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getallusersschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getsinglecartschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getsingleproductschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/getsingleuserschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/loginschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/updateproductschema.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Code_Competance_2/FakeStoreTesting/src/test/resources/updateuserschema.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../11_Web_Programming_&amp;_Testing/praktikum" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Web Programming/Prioritas1/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Web Programming/Prioritas2/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../Web Programming/Prioritas2/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,19 +47,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/KULIAH/Alterra Academy/qe_chintya-tria-diana-oktaviani/10_RESTful_API_Testing_with_REST_Assured/praktikum/TugasPraktikumRestAssured",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/KULIAH/Alterra Academy/qe_chintya-tria-diana-oktaviani/10_RESTful_API_Testing_with_REST_Assured/praktikum/TugasPraktikumRestAssured&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="MainTestApi" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="RestAssured" />
@@ -103,6 +92,7 @@
       <updated>1682534364562</updated>
       <workItem from="1682534365870" duration="438000" />
       <workItem from="1682674934091" duration="1156000" />
+      <workItem from="1682691293831" duration="3704000" />
     </task>
     <servers />
   </component>
